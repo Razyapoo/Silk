@@ -73,7 +73,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -118,7 +118,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -223,32 +223,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -273,17 +273,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -318,7 +318,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -489,7 +489,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -534,7 +534,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -639,32 +639,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -689,17 +689,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -734,7 +734,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -902,7 +902,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -947,7 +947,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -1052,32 +1052,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -1102,17 +1102,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -1147,7 +1147,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -1317,7 +1317,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -1362,7 +1362,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -1467,32 +1467,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -1517,17 +1517,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -1562,7 +1562,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -1731,7 +1731,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -1776,7 +1776,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -1881,32 +1881,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -1931,17 +1931,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -1976,7 +1976,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -2145,7 +2145,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -2190,7 +2190,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -2295,32 +2295,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -2345,17 +2345,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -2390,7 +2390,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -2561,7 +2561,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -2606,7 +2606,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -2711,32 +2711,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -2761,17 +2761,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -2806,7 +2806,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -2975,7 +2975,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -3020,7 +3020,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -3125,32 +3125,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -3175,17 +3175,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -3220,7 +3220,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -3389,7 +3389,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -3434,7 +3434,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -3539,32 +3539,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -3589,17 +3589,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -3634,7 +3634,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -3803,7 +3803,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -3848,7 +3848,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -3953,32 +3953,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -4003,17 +4003,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -4048,7 +4048,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -4217,7 +4217,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -4262,7 +4262,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -4367,32 +4367,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -4417,17 +4417,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -4462,7 +4462,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -4632,7 +4632,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -4677,7 +4677,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -4782,32 +4782,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -4832,17 +4832,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -4877,7 +4877,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -5046,7 +5046,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -5091,7 +5091,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -5196,32 +5196,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -5246,17 +5246,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -5291,7 +5291,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -5461,7 +5461,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -5506,7 +5506,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -5611,32 +5611,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -5661,17 +5661,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -5706,7 +5706,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -5875,7 +5875,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -5920,7 +5920,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -6025,32 +6025,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -6075,17 +6075,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -6120,7 +6120,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -6289,7 +6289,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -6334,7 +6334,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -6439,32 +6439,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -6489,17 +6489,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -6534,7 +6534,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -6703,7 +6703,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -6748,7 +6748,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -6853,32 +6853,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -6903,17 +6903,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -6948,7 +6948,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -7117,7 +7117,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -7162,7 +7162,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -7267,32 +7267,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -7317,17 +7317,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -7362,7 +7362,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -7532,7 +7532,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -7577,7 +7577,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -7682,32 +7682,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -7732,17 +7732,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -7777,7 +7777,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -7946,7 +7946,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -7991,7 +7991,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -8096,32 +8096,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -8146,17 +8146,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -8191,7 +8191,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -8360,7 +8360,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -8405,7 +8405,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -8510,32 +8510,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -8560,17 +8560,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -8605,7 +8605,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -8774,7 +8774,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -8819,7 +8819,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -8924,32 +8924,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -8974,17 +8974,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -9019,7 +9019,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -9188,7 +9188,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -9233,7 +9233,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -9338,32 +9338,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -9388,17 +9388,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -9433,7 +9433,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -9602,7 +9602,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -9647,7 +9647,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -9752,32 +9752,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -9802,17 +9802,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -9847,7 +9847,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -10016,7 +10016,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -10061,7 +10061,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -10166,32 +10166,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -10216,17 +10216,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -10261,7 +10261,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -10431,7 +10431,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -10476,7 +10476,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -10581,32 +10581,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -10631,17 +10631,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -10676,7 +10676,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -10844,7 +10844,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -10889,7 +10889,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -10994,32 +10994,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -11044,17 +11044,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -11089,7 +11089,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -11258,7 +11258,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -11303,7 +11303,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -11408,32 +11408,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -11458,17 +11458,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -11503,7 +11503,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -11671,7 +11671,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -11716,7 +11716,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -11821,32 +11821,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -11871,17 +11871,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -11916,7 +11916,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -12085,7 +12085,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -12130,7 +12130,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -12235,32 +12235,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -12285,17 +12285,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -12330,7 +12330,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -12499,7 +12499,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -12544,7 +12544,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -12649,32 +12649,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -12699,17 +12699,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -12744,7 +12744,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -12913,7 +12913,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -12958,7 +12958,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -13063,32 +13063,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -13113,17 +13113,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -13158,7 +13158,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -13327,7 +13327,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -13372,7 +13372,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -13477,32 +13477,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -13527,17 +13527,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -13572,7 +13572,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -13740,7 +13740,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -13785,7 +13785,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -13890,32 +13890,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -13940,17 +13940,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -13985,7 +13985,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -14154,7 +14154,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -14199,7 +14199,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -14304,32 +14304,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -14354,17 +14354,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -14399,7 +14399,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -14568,7 +14568,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -14613,7 +14613,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -14718,32 +14718,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -14768,17 +14768,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -14813,7 +14813,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -14983,7 +14983,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -15028,7 +15028,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -15133,32 +15133,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -15183,17 +15183,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -15228,7 +15228,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -15397,7 +15397,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -15442,7 +15442,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -15547,32 +15547,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -15597,17 +15597,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -15642,7 +15642,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -15812,7 +15812,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -15857,7 +15857,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -15962,32 +15962,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -16012,17 +16012,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -16057,7 +16057,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -16226,7 +16226,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -16271,7 +16271,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -16376,32 +16376,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -16426,17 +16426,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -16471,7 +16471,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -16640,7 +16640,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -16685,7 +16685,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -16790,32 +16790,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -16840,17 +16840,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -16885,7 +16885,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -17054,7 +17054,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -17099,7 +17099,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -17204,32 +17204,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -17254,17 +17254,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -17299,7 +17299,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -17468,7 +17468,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -17513,7 +17513,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -17618,32 +17618,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -17668,17 +17668,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -17713,7 +17713,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -17881,7 +17881,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -17926,7 +17926,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -18031,32 +18031,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -18081,17 +18081,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -18126,7 +18126,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -18295,7 +18295,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -18340,7 +18340,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -18445,32 +18445,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -18495,17 +18495,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -18540,7 +18540,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -18710,7 +18710,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -18755,7 +18755,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -18860,32 +18860,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -18910,17 +18910,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -18955,7 +18955,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -19124,7 +19124,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -19169,7 +19169,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -19274,32 +19274,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -19324,17 +19324,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -19369,7 +19369,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -19539,7 +19539,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -19584,7 +19584,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -19689,32 +19689,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -19739,17 +19739,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -19784,7 +19784,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -19953,7 +19953,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -19998,7 +19998,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -20103,32 +20103,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -20153,17 +20153,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -20198,7 +20198,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -20367,7 +20367,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -20412,7 +20412,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -20517,32 +20517,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -20567,17 +20567,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -20612,7 +20612,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -20781,7 +20781,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -20826,7 +20826,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -20931,32 +20931,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -20981,17 +20981,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -21026,7 +21026,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
@@ -21195,7 +21195,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/united_states>
         rdf:type       skos:Concept ;
-        rdfs:label     "United_States"@en ;
+        rdfs:label     "United States"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/alabama>
@@ -21240,7 +21240,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/district_of_columbia>
         rdf:type       skos:Concept ;
-        rdfs:label     "District_of_Columbia"@en ;
+        rdfs:label     "District of Columbia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/florida>
@@ -21345,32 +21345,32 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/new_hampshire>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Hampshire"@en ;
+        rdfs:label     "New Hampshire"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_jersey>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Jersey"@en ;
+        rdfs:label     "New Jersey"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_mexico>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_Mexico"@en ;
+        rdfs:label     "New Mexico"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/new_york>
         rdf:type       skos:Concept ;
-        rdfs:label     "New_York"@en ;
+        rdfs:label     "New York"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Carolina"@en ;
+        rdfs:label     "North Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/north_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "North_Dakota"@en ;
+        rdfs:label     "North Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/ohio>
@@ -21395,17 +21395,17 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/rhode_island>
         rdf:type       skos:Concept ;
-        rdfs:label     "Rhode_Island"@en ;
+        rdfs:label     "Rhode Island"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_carolina>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Carolina"@en ;
+        rdfs:label     "South Carolina"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/south_dakota>
         rdf:type       skos:Concept ;
-        rdfs:label     "South_Dakota"@en ;
+        rdfs:label     "South Dakota"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/tennessee>
@@ -21440,7 +21440,7 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 <https://example.org/id/concept/state/west_virginia>
         rdf:type       skos:Concept ;
-        rdfs:label     "West_Virginia"@en ;
+        rdfs:label     "West Virginia"@en ;
         skos:inScheme  <https://example.org/id/conceptscheme/states> .
 
 <https://example.org/id/concept/state/wisconsin>
