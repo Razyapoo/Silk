@@ -333,37 +333,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -749,37 +749,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -1162,37 +1162,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -1577,37 +1577,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -1991,37 +1991,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -2405,37 +2405,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -2821,37 +2821,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -3235,37 +3235,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -3649,37 +3649,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -4063,37 +4063,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -4477,37 +4477,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -4892,37 +4892,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -5306,37 +5306,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -5721,37 +5721,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -6135,37 +6135,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -6549,37 +6549,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -6963,37 +6963,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -7377,37 +7377,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -7792,37 +7792,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -8206,37 +8206,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -8620,37 +8620,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -9034,37 +9034,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -9448,37 +9448,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -9862,37 +9862,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -10276,37 +10276,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -10691,37 +10691,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -11104,37 +11104,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -11518,37 +11518,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -11931,37 +11931,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -12345,37 +12345,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -12759,37 +12759,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -13173,37 +13173,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -13587,37 +13587,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -14000,37 +14000,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -14414,37 +14414,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -14828,37 +14828,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -15243,37 +15243,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -15657,37 +15657,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -16072,37 +16072,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -16486,37 +16486,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -16900,37 +16900,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -17314,37 +17314,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -17728,37 +17728,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -18141,37 +18141,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -18555,37 +18555,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -18970,37 +18970,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -19384,37 +19384,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -19799,37 +19799,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -20213,37 +20213,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -20627,37 +20627,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -21041,37 +21041,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
@@ -21455,37 +21455,37 @@ ex:refArea  rdf:type  qb:CodedProperty ;
 
 ex:white  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "white race by percentage"@en ;
+        rdfs:label  "white"@en ;
         rdfs:range  xsd:decimal .
 
 ex:black  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "black race by percentage"@en ;
+        rdfs:label  "black"@en ;
         rdfs:range  xsd:decimal .
 
 ex:hispanic  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "hispanic race by percentage"@en ;
+        rdfs:label  "hispanic"@en ;
         rdfs:range  xsd:decimal .
 
 ex:asian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "asian race by percentage"@en ;
+        rdfs:label  "asian"@en ;
         rdfs:range  xsd:decimal .
 
 ex:american_indian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "american indian or alaska native race by percentage"@en ;
+        rdfs:label  "american indian or alaska native"@en ;
         rdfs:range  xsd:decimal .
 
 ex:native_hawaiian  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "native hawaiian or other pacific islander race by percentage"@en ;
+        rdfs:label  "native hawaiian or other pacific islander"@en ;
         rdfs:range  xsd:decimal .
 
 ex:two_or_more  rdf:type  rdf:Property ;
         rdf:type    qb:MeasureProperty ;
-        rdfs:label  "two or more races by percentage"@en ;
+        rdfs:label  "two or more"@en ;
         rdfs:range  xsd:decimal .
 
 ex:dsd-dem  rdf:type  qb:DataStructureDefinition ;
